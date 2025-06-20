@@ -22,7 +22,7 @@ Deep learning regression model utilizing TensorFlow and Keras
 - **Model optimization** with Adam optimizer and MSE loss function
 - **Validation performance** achieving convergence with systematic error reduction
 
-### 🧮 [AI Language Processing & Time Series](https://github.com/MThompson384/Big-Data/blob/main/Assignment%201-%20Retrieving%20data%20from%20an%20AP.ipynb)
+### 🧮 [AI Language Processing & Time Series](https://github.com/MThompson384/Artificial-Intelligence/blob/main/AI_Language.ipynb)
 Advanced AI implementations utilizing mathematical foundations and sequential modeling
 - **Custom entropy functions** built from scratch using only Python's math module
 - **RNN time series modeling** for NYSE trading volume prediction with 5-lag features
